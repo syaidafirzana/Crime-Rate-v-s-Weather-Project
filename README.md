@@ -1,2 +1,2 @@
-# Crime-Rate-v-s-Weather-Project
+# Crime-Rate-vs-Weather-Project
 ANALYSIS OF CRIME PATTERNS IN THE BOROUGH OF CHRISTCHURCH
